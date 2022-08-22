@@ -22,11 +22,11 @@ const logger = time =>
     </li>`
   );
 
-// function logerResult() {
-//   return ;
-// }
-
 // Вызовы функции для проверки
 delay(2000).then(logger); // Resolved after 2000ms
 delay(1000).then(logger); // Resolved after 1000ms
 delay(1500).then(logger); // Resolved after 1500ms
+
+// delay(2000).then(result => {
+//   console.log(result);
+// }); // Resolved after 2000ms

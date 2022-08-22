@@ -9,8 +9,6 @@ const colors = [
   '#795548',
 ];
 
-let intervalId = null;
-
 const refs = {
   startBtnRef: document.querySelector('button[data-action="start"]'),
   stopBtnRef: document.querySelector('button[data-action="stop"]'),
