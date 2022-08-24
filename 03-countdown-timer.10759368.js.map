@@ -1,1 +1,0 @@
-{"mappings":"AAEAA,QAAQC,IAAIC,KAAKC","sources":["src/js/03-countdown-timer.js"],"sourcesContent":["import '../sass/index.scss';\n\nconsole.log(Date.now());\n"],"names":["console","log","Date","now"],"version":3,"file":"03-countdown-timer.10759368.js.map"}
